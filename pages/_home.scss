@@ -1,0 +1,28 @@
+.intro-text{
+ z-index: 3;
+ position: relative;
+ display: block;
+ padding: 1rem;
+ background: rgba(63, 62, 62, 0.4);
+ color: black;
+ left: 80px;
+ top:-90px;
+ width: 60%;
+ max-height: 90px;
+}
+.red-bar{
+ float:right;
+ height: 100%;
+ padding-right:0px;
+ max-width: 0.6em;
+ background-color: red;
+}
+.black-bar{
+ float:right;
+ height: 100%; 
+ max-width: 1.6em;
+ background-color: black;
+}
+.intro-img{
+ float:right;
+}
