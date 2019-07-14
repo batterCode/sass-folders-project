@@ -3,7 +3,14 @@
     "mappings": "ACCA,AAAA,IAAI,CAAA;EACH,KAAK,EAFA,GAAG;CAGR",
     "sources": [
         "index.scss",
-        "helpers/_variables.scss"
+        "helpers/_variables.scss",
+        "components/_header.scss",
+        "components/_slider.scss",
+        "components/_side.scss",
+        "components/_footer.scss",
+        "pages/_home.scss",
+        "pages/_about.scss",
+        "pages/_element.scss"
     ],
     "names": [],
     "file": "index.css"
