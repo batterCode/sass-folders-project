@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACCA,AAAA,IAAI,CAAA;EACH,KAAK,EAFA,GAAG;CAGR",
+    "sources": [
+        "index.scss",
+        "helpers/_variables.scss"
+    ],
+    "names": [],
+    "file": "index.css"
+}
